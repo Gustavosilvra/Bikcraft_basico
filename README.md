@@ -1,4 +1,4 @@
-<div class="readme">
+<div>
 Projeto Bikcraft
 </div>
 Esse é um projeto básico de um site de vendas de bicicletas.👨‍💻
